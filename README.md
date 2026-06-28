@@ -53,7 +53,6 @@ I'm a **Cloud / DevOps Engineer in training** and builder based in **Dublin, Ire
 | Project | Description |
 |--------|-------------|
 | [**VerifyLog**](https://github.com/Tarunmandava/verifylog) | Civic incident-tracking platform built with Next.js, Supabase, Prisma & Gemini AI — co-founder |
-| [**Policy-as-Code Governance Architecture**](https://github.com/Tarunmandava) | MSc dissertation combining Terraform, Azure Policy and CI/CD pipelines for enterprise cloud governance |
 | [**ContextExplain PRO**](https://github.com/nama-ctrl/contextexplain-server) | Published Chrome extension for contextual AI-powered explanations |
 
 ---
