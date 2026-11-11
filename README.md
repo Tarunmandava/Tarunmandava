@@ -20,8 +20,7 @@
 I'm a software engineer and builder based in **Dublin, Ireland**, with an **MSc in Computing** from Griffith College Dublin. I design, build, and ship real products end-to-end — across full-stack web, Android, and cloud — and I care about clean, reliable systems that people actually use.
 
 - 🔭 I build and run **two live applications** (links below)
-- 🌱 Currently sharpening **data structures & algorithms** and **cloud/DevOps** (AWS, Azure)
-- 🤖 I use AI tools daily in my workflow — with a habit of reviewing every output
+- 🌱 Currently sharpening **cloud/DevOps** (AWS, Azure)
 - 📫 Reach me: **tarunmandava999@gmail.com**
 
 ---
