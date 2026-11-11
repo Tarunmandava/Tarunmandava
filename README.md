@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Cloud & DevOps · Builder · MSc Computing @ Griffith College Dublin</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tarunkumar-mandava-7a42a6221/" target="_\https://www.linkedin.com/in/tarun-kumar-mandava-7a42a6221/">
+  <a href="https://www.linkedin.com/in/tarun-kumar-mandava-7a42a6221/" target="_\https://www.linkedin.com/in/tarun-kumar-mandava-7a42a6221/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:tarunmandava999@gmail.com">
